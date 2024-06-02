@@ -1,11 +1,15 @@
 <h1>Finance App</h1>
 
 <h3>
-this project i creat an awesome  Finance App UI and backend
+SpendSnap (Finance)
 </h3>
 <p>
-tutorial :
-https://www.youtube.com/watch?v=9-QFt-cWZV8&ab_channel=flutterskills
+ Build a personal finance management app in Flutter. Allow users to track income, expenses,
+and statistics through intuitive UI elements.
+ Offer expense categorization, budgeting tools, and financial goal setting.
+Implement Provider for data persistence and efficient UI updates based on user
+transactions.
+
 </p>
 <hr>
 <div style = ""> 
